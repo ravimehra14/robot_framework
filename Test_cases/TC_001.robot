@@ -9,6 +9,6 @@ ${BROWSER}    Chrome
 *** Test Cases ***
 Valid Login
     open browser  ${LOGIN URL}  ${BROWSER}
-    sleep    5
+    sleep    10
     close browser
 
