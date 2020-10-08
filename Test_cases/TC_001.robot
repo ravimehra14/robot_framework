@@ -1,6 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary
-
+Library    AllureReportLibrary
 
 *** Variables ***
 ${LOGIN URL}    http://facebook.com
